@@ -1,0 +1,263 @@
+2025-08-09 18:32:42.690 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Client/Index.cshtml'.
+2025-08-09 18:32:42.717 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Dashboard/Index.cshtml'.
+2025-08-09 18:32:42.718 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2025-08-09 18:32:42.720 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2025-08-09 18:32:42.722 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2025-08-09 18:32:42.724 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2025-08-09 18:32:42.726 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2025-08-09 18:32:42.727 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2025-08-09 18:32:42.729 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2025-08-09 18:32:42.743 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-09 18:32:42.852 +05:30 [DBG] Hosting starting
+2025-08-09 18:32:42.924 +05:30 [INF] User profile is available. Using 'C:\Users\Mohamed Faisal\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-09 18:32:42.948 +05:30 [DBG] Reading data from file 'C:\Users\Mohamed Faisal\AppData\Local\ASP.NET\DataProtection-Keys\key-f82e546a-d142-4f7e-a8e4-04a3ec45a2cf.xml'.
+2025-08-09 18:32:42.969 +05:30 [DBG] Found key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf}.
+2025-08-09 18:32:42.983 +05:30 [DBG] Considering key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} with expiration date 2025-11-03 06:00:59Z as default key.
+2025-08-09 18:32:42.989 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-08-09 18:32:42.994 +05:30 [DBG] Decrypting secret element using Windows DPAPI.
+2025-08-09 18:32:42.998 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-08-09 18:32:43.004 +05:30 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2025-08-09 18:32:43.007 +05:30 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2025-08-09 18:32:43.014 +05:30 [DBG] Using key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} as the default key.
+2025-08-09 18:32:43.017 +05:30 [DBG] Key ring with default key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} was loaded during application startup.
+2025-08-09 18:32:43.022 +05:30 [DBG] Middleware loaded
+2025-08-09 18:32:43.026 +05:30 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16507 B).
+2025-08-09 18:32:43.030 +05:30 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-09 18:32:43.126 +05:30 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-09 18:32:43.297 +05:30 [DBG] Connection id "0HNEN8K3M18H1" received FIN.
+2025-08-09 18:32:43.297 +05:30 [DBG] Connection id "0HNEN8K3M18H0" received FIN.
+2025-08-09 18:32:43.311 +05:30 [DBG] Connection id "0HNEN8K3M18H0" accepted.
+2025-08-09 18:32:43.311 +05:30 [DBG] Connection id "0HNEN8K3M18H1" accepted.
+2025-08-09 18:32:43.316 +05:30 [DBG] Connection id "0HNEN8K3M18H1" started.
+2025-08-09 18:32:43.317 +05:30 [DBG] Connection id "0HNEN8K3M18H0" started.
+2025-08-09 18:32:43.324 +05:30 [INF] Now listening on: https://localhost:7260
+2025-08-09 18:32:43.326 +05:30 [INF] Now listening on: http://localhost:5058
+2025-08-09 18:32:43.327 +05:30 [DBG] Loaded hosting startup assembly Invoicebook
+2025-08-09 18:32:43.328 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-09 18:32:43.336 +05:30 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-09 18:32:43.338 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-09 18:32:43.508 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-08-09 18:32:43.598 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-09 18:32:43.508 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-08-09 18:32:43.629 +05:30 [INF] Hosting environment: Development
+2025-08-09 18:32:43.635 +05:30 [INF] Content root path: C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook
+2025-08-09 18:32:43.636 +05:30 [DBG] Hosting started
+2025-08-09 18:32:43.637 +05:30 [DBG] Connection id "0HNEN8K3M18H1" stopped.
+2025-08-09 18:32:43.637 +05:30 [DBG] Connection id "0HNEN8K3M18H0" stopped.
+2025-08-09 18:32:43.644 +05:30 [DBG] Connection id "0HNEN8K3M18H1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-09 18:32:43.644 +05:30 [DBG] Connection id "0HNEN8K3M18H0" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-09 18:32:43.885 +05:30 [DBG] Connection id "0HNEN8K3M18H2" accepted.
+2025-08-09 18:32:44.085 +05:30 [DBG] Connection id "0HNEN8K3M18H2" started.
+2025-08-09 18:32:44.183 +05:30 [DBG] Connection 0HNEN8K3M18H2 established using the following protocol: "Tls13"
+2025-08-09 18:32:44.346 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/ - null null
+2025-08-09 18:32:44.552 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-09 18:32:44.560 +05:30 [DBG] The request path / does not match a supported file type
+2025-08-09 18:32:44.580 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2025-08-09 18:32:44.587 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-08-09 18:32:44.591 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-09 18:32:44.600 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-09 18:32:44.676 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.HomeController (Invoicebook).
+2025-08-09 18:32:44.683 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-09 18:32:44.686 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-09 18:32:44.690 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-09 18:32:44.694 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-09 18:32:44.697 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-09 18:32:44.703 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-09 18:32:44.706 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-09 18:32:44.720 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2025-08-09 18:32:44.733 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-09 18:32:44.739 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 18.1742ms.
+2025-08-09 18:32:44.790 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2025-08-09 18:32:44.822 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-09 18:32:44.833 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-09 18:32:44.873 +05:30 [INF] Executed ViewResult - view Index executed in 155.6305ms.
+2025-08-09 18:32:44.905 +05:30 [INF] Executed action Invoicebook.Controllers.HomeController.Index (Invoicebook) in 205.665ms
+2025-08-09 18:32:44.933 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-09 18:32:44.948 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-09 18:32:44.957 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-09 18:32:44.966 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-09 18:32:44.975 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/ - 200 null text/html; charset=utf-8 642.0984ms
+2025-08-09 18:32:44.986 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-09 18:32:44.991 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 25.7235ms
+2025-08-09 18:32:45.071 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-09 18:32:45.235 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 165.2485ms
+2025-08-09 18:32:47.592 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Dashboard - null null
+2025-08-09 18:32:47.608 +05:30 [DBG] The request path /Dashboard does not match a supported file type
+2025-08-09 18:32:47.615 +05:30 [DBG] 1 candidate(s) found for the request path '/Dashboard'
+2025-08-09 18:32:47.618 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.DashboardController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Dashboard'
+2025-08-09 18:32:47.620 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.DashboardController.Index (Invoicebook)'
+2025-08-09 18:32:47.622 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.DashboardController.Index (Invoicebook)'
+2025-08-09 18:32:47.626 +05:30 [INF] Route matched with {action = "Index", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.DashboardController (Invoicebook).
+2025-08-09 18:32:47.633 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-09 18:32:47.636 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-09 18:32:47.639 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-09 18:32:47.643 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-09 18:32:47.649 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-09 18:32:47.653 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.DashboardController (Invoicebook)
+2025-08-09 18:32:47.657 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.DashboardController (Invoicebook)
+2025-08-09 18:32:47.660 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Dashboard'.
+2025-08-09 18:32:47.670 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-09 18:32:47.671 +05:30 [DBG] The view path '/Views/Dashboard/Index.cshtml' was found in 11.0171ms.
+2025-08-09 18:32:47.696 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Dashboard'.
+2025-08-09 18:32:47.702 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-09 18:32:47.703 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-09 18:32:47.764 +05:30 [INF] Executed ViewResult - view Index executed in 104.2673ms.
+2025-08-09 18:32:47.768 +05:30 [INF] Executed action Invoicebook.Controllers.DashboardController.Index (Invoicebook) in 114.3536ms
+2025-08-09 18:32:47.771 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.DashboardController.Index (Invoicebook)'
+2025-08-09 18:32:47.773 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-09 18:32:47.775 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-09 18:32:47.777 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Dashboard - 200 null text/html; charset=utf-8 184.8171ms
+2025-08-09 18:32:47.814 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-09 18:32:47.814 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-09 18:32:47.815 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-09 18:32:47.821 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-09 18:32:47.826 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-09 18:32:47.831 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 16.3268ms
+2025-08-09 18:32:47.836 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-09 18:32:47.852 +05:30 [DBG] Request did not match any endpoints
+2025-08-09 18:32:47.852 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.8782ms
+2025-08-09 18:32:47.855 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 40.1574ms
+2025-08-09 18:32:47.873 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-09 18:32:50.898 +05:30 [DBG] Connection id "0HNEN8K3M18H2" received FIN.
+2025-08-09 18:32:50.902 +05:30 [DBG] The connection queue processing loop for 0HNEN8K3M18H2 completed.
+2025-08-09 18:32:50.905 +05:30 [DBG] Connection id "0HNEN8K3M18H2" is closed. The last processed stream ID was 13.
+2025-08-09 18:32:50.906 +05:30 [DBG] Connection id "0HNEN8K3M18H2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-09 18:32:50.914 +05:30 [DBG] Connection id "0HNEN8K3M18H2" stopped.
+2025-08-09 18:32:59.092 +05:30 [DBG] Connection id "0HNEN8K3M18H3" accepted.
+2025-08-09 18:32:59.093 +05:30 [DBG] Connection id "0HNEN8K3M18H3" started.
+2025-08-09 18:32:59.099 +05:30 [DBG] Connection 0HNEN8K3M18H3 established using the following protocol: "Tls13"
+2025-08-09 18:32:59.222 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Client - null null
+2025-08-09 18:32:59.231 +05:30 [DBG] The request path /Client does not match a supported file type
+2025-08-09 18:32:59.234 +05:30 [DBG] 1 candidate(s) found for the request path '/Client'
+2025-08-09 18:32:59.236 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Client'
+2025-08-09 18:32:59.239 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)'
+2025-08-09 18:32:59.240 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)'
+2025-08-09 18:32:59.243 +05:30 [INF] Route matched with {action = "Index", controller = "Client"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.ClientController (Invoicebook).
+2025-08-09 18:32:59.246 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-09 18:32:59.248 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-09 18:32:59.249 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-09 18:32:59.251 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-09 18:32:59.252 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-09 18:32:59.254 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.ClientController (Invoicebook)
+2025-08-09 18:32:59.256 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.ClientController (Invoicebook)
+2025-08-09 18:32:59.257 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Client'.
+2025-08-09 18:32:59.258 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-09 18:32:59.259 +05:30 [DBG] The view path '/Views/Client/Index.cshtml' was found in 2.3364ms.
+2025-08-09 18:32:59.262 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Client'.
+2025-08-09 18:32:59.264 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-09 18:32:59.266 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-09 18:32:59.268 +05:30 [INF] Executed ViewResult - view Index executed in 11.3269ms.
+2025-08-09 18:32:59.271 +05:30 [INF] Executed action Invoicebook.Controllers.ClientController.Index (Invoicebook) in 17.2553ms
+2025-08-09 18:32:59.273 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)'
+2025-08-09 18:32:59.274 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-09 18:32:59.276 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-09 18:32:59.277 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Client - 200 null text/html; charset=utf-8 55.1832ms
+2025-08-09 18:32:59.288 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-09 18:32:59.291 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-09 18:32:59.299 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-09 18:32:59.302 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 11.5776ms
+2025-08-09 18:32:59.309 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 21.0229ms
+2025-08-09 18:33:00.921 +05:30 [DBG] Connection id "0HNEN8K3M18H3" received FIN.
+2025-08-09 18:33:00.924 +05:30 [DBG] Connection id "0HNEN8K3M18H3" is closed. The last processed stream ID was 5.
+2025-08-09 18:33:00.924 +05:30 [DBG] The connection queue processing loop for 0HNEN8K3M18H3 completed.
+2025-08-09 18:33:00.926 +05:30 [DBG] Connection id "0HNEN8K3M18H3" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-09 18:33:00.936 +05:30 [DBG] Connection id "0HNEN8K3M18H3" stopped.
+2025-08-09 18:33:07.460 +05:30 [DBG] Connection id "0HNEN8K3M18H4" accepted.
+2025-08-09 18:33:07.463 +05:30 [DBG] Connection id "0HNEN8K3M18H4" started.
+2025-08-09 18:33:07.470 +05:30 [DBG] Connection 0HNEN8K3M18H4 established using the following protocol: "Tls13"
+2025-08-09 18:33:07.476 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Client - null null
+2025-08-09 18:33:07.485 +05:30 [DBG] The request path /Client does not match a supported file type
+2025-08-09 18:33:07.487 +05:30 [DBG] 1 candidate(s) found for the request path '/Client'
+2025-08-09 18:33:07.490 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Client'
+2025-08-09 18:33:07.492 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)'
+2025-08-09 18:33:07.493 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)'
+2025-08-09 18:33:07.496 +05:30 [INF] Route matched with {action = "Index", controller = "Client"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.ClientController (Invoicebook).
+2025-08-09 18:33:07.498 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-09 18:33:07.500 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-09 18:33:07.503 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-09 18:33:07.505 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-09 18:33:07.507 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-09 18:33:07.508 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.ClientController (Invoicebook)
+2025-08-09 18:33:07.509 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.ClientController (Invoicebook)
+2025-08-09 18:33:07.512 +05:30 [DBG] View lookup cache hit for view 'Index' in controller 'Client'.
+2025-08-09 18:33:07.513 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-09 18:33:07.515 +05:30 [DBG] The view path '/Views/Client/Index.cshtml' was found in 3.7933ms.
+2025-08-09 18:33:07.517 +05:30 [DBG] View lookup cache hit for view '_Layout' in controller 'Client'.
+2025-08-09 18:33:07.518 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-09 18:33:07.519 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-09 18:33:07.521 +05:30 [INF] Executed ViewResult - view Index executed in 9.8929ms.
+2025-08-09 18:33:07.525 +05:30 [INF] Executed action Invoicebook.Controllers.ClientController.Index (Invoicebook) in 17.1465ms
+2025-08-09 18:33:07.526 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)'
+2025-08-09 18:33:07.528 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-09 18:33:07.534 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-09 18:33:07.536 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Client - 200 null text/html; charset=utf-8 61.9697ms
+2025-08-09 18:33:07.550 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css - null null
+2025-08-09 18:33:07.552 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/bootstrap.min.js - null null
+2025-08-09 18:33:07.552 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/jquery-3.7.1.min.js - null null
+2025-08-09 18:33:07.550 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css - null null
+2025-08-09 18:33:07.555 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/jquery.slimscroll.min.js - null null
+2025-08-09 18:33:07.551 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css - null null
+2025-08-09 18:33:07.550 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?v=1.0.4 - null null
+2025-08-09 18:33:07.553 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/plugins/fastclick/js/fastclick.min.js - null null
+2025-08-09 18:33:07.568 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/js/app.js - null null
+2025-08-09 18:33:07.613 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/img/user.svg - null null
+2025-08-09 18:33:07.619 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-09 18:33:07.619 +05:30 [INF] Sending file. Request path: '/admin/plugins/fastclick/js/fastclick.min.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\fastclick\js\fastclick.min.js'
+2025-08-09 18:33:07.627 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css - 200 3060 text/css 76.0159ms
+2025-08-09 18:33:07.632 +05:30 [INF] Sending file. Request path: '/Admin/dist/js/app.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\js\app.js'
+2025-08-09 18:33:07.633 +05:30 [INF] Sending file. Request path: '/js/bootstrap.min.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\bootstrap.min.js'
+2025-08-09 18:33:07.638 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/js/app.js - 200 22654 text/javascript 69.6414ms
+2025-08-09 18:33:07.629 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/plugins/fastclick/js/fastclick.min.js - 200 8776 text/javascript 76.5293ms
+2025-08-09 18:33:07.640 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/bootstrap.min.js - 200 60775 text/javascript 88.455ms
+2025-08-09 18:33:07.650 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-09 18:33:07.640 +05:30 [INF] Sending file. Request path: '/js/jquery-3.7.1.min.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\jquery-3.7.1.min.js'
+2025-08-09 18:33:07.626 +05:30 [INF] Sending file. Request path: '/Admin/dist/img/user.svg'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\img\user.svg'
+2025-08-09 18:33:07.624 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-09 18:33:07.613 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-09 18:33:07.619 +05:30 [INF] Sending file. Request path: '/js/jquery.slimscroll.min.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\jquery.slimscroll.min.js'
+2025-08-09 18:33:07.664 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?v=1.0.4 - 200 148498 text/css 113.3763ms
+2025-08-09 18:33:07.667 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/jquery-3.7.1.min.js - 200 105298 text/javascript 114.7453ms
+2025-08-09 18:33:07.660 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-09 18:33:07.670 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/img/user.svg - 200 1475 image/svg+xml 57.5739ms
+2025-08-09 18:33:07.673 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css - 200 34380 text/css 123.2051ms
+2025-08-09 18:33:07.678 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-09 18:33:07.679 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/jquery.slimscroll.min.js - 200 6099 text/javascript 124.6014ms
+2025-08-09 18:33:07.691 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css - 200 232186 text/css 140.2809ms
+2025-08-09 18:33:07.701 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 88.7538ms
+2025-08-09 18:33:07.744 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-09 18:33:07.770 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.9432ms
+2025-08-09 18:33:07.835 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0 - null null
+2025-08-09 18:33:07.849 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/fonts/fontawesome-webfont.woff2'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\fonts\fontawesome-webfont.woff2'
+2025-08-09 18:33:07.850 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0 - 200 66624 font/woff2 15.4943ms
+2025-08-09 18:33:08.733 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/favicon.ico - null null
+2025-08-09 18:33:08.744 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\favicon.ico'
+2025-08-09 18:33:08.752 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/favicon.ico - 200 5430 image/x-icon 18.4593ms
+2025-08-09 18:33:11.285 +05:30 [DBG] Connection id "0HNEN8K3M18H4" received FIN.
+2025-08-09 18:33:11.303 +05:30 [DBG] Connection id "0HNEN8K3M18H4" is closed. The last processed stream ID was 29.
+2025-08-09 18:33:11.303 +05:30 [DBG] The connection queue processing loop for 0HNEN8K3M18H4 completed.
+2025-08-09 18:33:11.318 +05:30 [DBG] Connection id "0HNEN8K3M18H4" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-09 18:33:11.325 +05:30 [DBG] Connection id "0HNEN8K3M18H4" stopped.
+2025-08-09 18:33:14.320 +05:30 [DBG] Connection id "0HNEN8K3M18H5" accepted.
+2025-08-09 18:33:14.322 +05:30 [DBG] Connection id "0HNEN8K3M18H5" started.
+2025-08-09 18:33:14.329 +05:30 [DBG] Connection 0HNEN8K3M18H5 established using the following protocol: "Tls13"
+2025-08-09 18:33:14.334 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-08-09 18:33:14.340 +05:30 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-08-09 18:33:14.343 +05:30 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-08-09 18:33:14.348 +05:30 [DBG] Request did not match any endpoints
+2025-08-09 18:33:14.350 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 17.4358ms
+2025-08-09 18:33:14.355 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-08-09 18:33:21.325 +05:30 [DBG] Connection id "0HNEN8K3M18H5" received FIN.
+2025-08-09 18:33:21.378 +05:30 [DBG] Connection id "0HNEN8K3M18H5" is closed. The last processed stream ID was 1.
+2025-08-09 18:33:21.379 +05:30 [DBG] The connection queue processing loop for 0HNEN8K3M18H5 completed.
+2025-08-09 18:33:21.382 +05:30 [DBG] Connection id "0HNEN8K3M18H5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-09 18:33:21.399 +05:30 [DBG] Connection id "0HNEN8K3M18H5" stopped.
