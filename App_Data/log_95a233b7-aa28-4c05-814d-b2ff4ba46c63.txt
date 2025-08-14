@@ -1,0 +1,573 @@
+2025-08-13 12:06:45.058 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Chart/Index.cshtml'.
+2025-08-13 12:06:45.099 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Client/Index.cshtml'.
+2025-08-13 12:06:45.102 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Client/_EditClient.cshtml'.
+2025-08-13 12:06:45.103 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Compose/Index.cshtml'.
+2025-08-13 12:06:45.105 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2025-08-13 12:06:45.108 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2025-08-13 12:06:45.109 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Inbox/Index.cshtml'.
+2025-08-13 12:06:45.112 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Invoice/Index.cshtml'.
+2025-08-13 12:06:45.115 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Read/Index.cshtml'.
+2025-08-13 12:06:45.116 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2025-08-13 12:06:45.119 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2025-08-13 12:06:45.120 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Table/Index.cshtml'.
+2025-08-13 12:06:45.122 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2025-08-13 12:06:45.123 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2025-08-13 12:06:45.125 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2025-08-13 12:06:45.139 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-13 12:06:45.258 +05:30 [DBG] Hosting starting
+2025-08-13 12:06:45.314 +05:30 [INF] User profile is available. Using 'C:\Users\Mohamed Faisal\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-13 12:06:45.330 +05:30 [DBG] Reading data from file 'C:\Users\Mohamed Faisal\AppData\Local\ASP.NET\DataProtection-Keys\key-f82e546a-d142-4f7e-a8e4-04a3ec45a2cf.xml'.
+2025-08-13 12:06:45.351 +05:30 [DBG] Found key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf}.
+2025-08-13 12:06:45.362 +05:30 [DBG] Considering key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} with expiration date 2025-11-03 06:00:59Z as default key.
+2025-08-13 12:06:45.370 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-08-13 12:06:45.377 +05:30 [DBG] Decrypting secret element using Windows DPAPI.
+2025-08-13 12:06:45.380 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-08-13 12:06:45.390 +05:30 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2025-08-13 12:06:45.396 +05:30 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2025-08-13 12:06:45.417 +05:30 [DBG] Using key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} as the default key.
+2025-08-13 12:06:45.424 +05:30 [DBG] Key ring with default key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} was loaded during application startup.
+2025-08-13 12:06:45.437 +05:30 [DBG] Middleware loaded
+2025-08-13 12:06:45.443 +05:30 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16507 B).
+2025-08-13 12:06:45.462 +05:30 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-13 12:06:45.609 +05:30 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-13 12:06:45.895 +05:30 [DBG] Connection id "0HNEQ6F328KVA" accepted.
+2025-08-13 12:06:45.898 +05:30 [INF] Now listening on: https://localhost:7260
+2025-08-13 12:06:45.899 +05:30 [DBG] Connection id "0HNEQ6F328KVA" started.
+2025-08-13 12:06:45.900 +05:30 [INF] Now listening on: http://localhost:5058
+2025-08-13 12:06:45.903 +05:30 [DBG] Loaded hosting startup assembly Invoicebook
+2025-08-13 12:06:45.905 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-13 12:06:45.905 +05:30 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-13 12:06:45.908 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-13 12:06:45.956 +05:30 [DBG] Connection id "0HNEQ6F328KVA" received FIN.
+2025-08-13 12:06:45.979 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-08-13 12:06:46.199 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-13 12:06:46.213 +05:30 [INF] Hosting environment: Development
+2025-08-13 12:06:46.216 +05:30 [INF] Content root path: C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook
+2025-08-13 12:06:46.218 +05:30 [DBG] Hosting started
+2025-08-13 12:06:46.222 +05:30 [DBG] Connection id "0HNEQ6F328KVA" stopped.
+2025-08-13 12:06:46.229 +05:30 [DBG] Connection id "0HNEQ6F328KVA" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-13 12:06:46.428 +05:30 [DBG] Connection id "0HNEQ6F328KVB" accepted.
+2025-08-13 12:06:46.497 +05:30 [DBG] Connection id "0HNEQ6F328KVB" started.
+2025-08-13 12:06:46.580 +05:30 [DBG] Connection 0HNEQ6F328KVB established using the following protocol: "Tls13"
+2025-08-13 12:06:46.737 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/ - null null
+2025-08-13 12:06:46.889 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-13 12:06:46.900 +05:30 [DBG] The request path / does not match a supported file type
+2025-08-13 12:06:46.933 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2025-08-13 12:06:46.940 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-08-13 12:06:46.943 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:06:46.953 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:06:47.022 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.HomeController (Invoicebook).
+2025-08-13 12:06:47.027 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-13 12:06:47.030 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:06:47.033 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-13 12:06:47.036 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-13 12:06:47.039 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:06:47.043 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:06:47.048 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:06:47.058 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2025-08-13 12:06:47.067 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-13 12:06:47.072 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 13.0267ms.
+2025-08-13 12:06:47.140 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2025-08-13 12:06:47.190 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-13 12:06:47.199 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-13 12:06:47.339 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css - null null
+2025-08-13 12:06:47.358 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css - null null
+2025-08-13 12:06:47.340 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css - null null
+2025-08-13 12:06:47.414 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/jquery-3.7.1.min.js - null null
+2025-08-13 12:06:47.461 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/plugins/fastclick/js/fastclick.min.js - null null
+2025-08-13 12:06:47.443 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?v=1.0.4 - null null
+2025-08-13 12:06:47.432 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css - null null
+2025-08-13 12:06:47.486 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/img/user.svg - null null
+2025-08-13 12:06:47.493 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:06:47.506 +05:30 [INF] Sending file. Request path: '/Admin/dist/img/user.svg'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\img\user.svg'
+2025-08-13 12:06:47.494 +05:30 [INF] Sending file. Request path: '/admin/plugins/fastclick/js/fastclick.min.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\fastclick\js\fastclick.min.js'
+2025-08-13 12:06:47.514 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/img/user.svg - 200 1475 image/svg+xml 26.8008ms
+2025-08-13 12:06:47.514 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css - 200 1712 text/css 156.7303ms
+2025-08-13 12:06:47.517 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/plugins/fastclick/js/fastclick.min.js - 200 8776 text/javascript 55.4641ms
+2025-08-13 12:06:47.538 +05:30 [INF] Sending file. Request path: '/js/jquery-3.7.1.min.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\jquery-3.7.1.min.js'
+2025-08-13 12:06:47.486 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/js/app.js - null null
+2025-08-13 12:06:47.527 +05:30 [INF] Executed ViewResult - view Index executed in 471.5196ms.
+2025-08-13 12:06:48.232 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/jquery-3.7.1.min.js - 200 105298 text/javascript 818.7899ms
+2025-08-13 12:06:48.230 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:06:48.230 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-13 12:06:48.242 +05:30 [INF] Sending file. Request path: '/Admin/dist/js/app.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\js\app.js'
+2025-08-13 12:06:48.246 +05:30 [INF] Executed action Invoicebook.Controllers.HomeController.Index (Invoicebook) in 1204.8299ms
+2025-08-13 12:06:48.250 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:06:48.252 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?v=1.0.4 - 200 148498 text/css 808.789ms
+2025-08-13 12:06:48.259 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/js/app.js - 200 22654 text/javascript 772.8261ms
+2025-08-13 12:06:48.261 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:06:47.495 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:06:47.501 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:06:47.450 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/bootstrap.min.js - null null
+2025-08-13 12:06:47.450 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/jquery.slimscroll.min.js - null null
+2025-08-13 12:06:48.263 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css - 200 232186 text/css 923.2285ms
+2025-08-13 12:06:48.264 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-13 12:06:48.280 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-13 12:06:48.284 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css - 200 34380 text/css 945.09ms
+2025-08-13 12:06:48.291 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css - 200 3060 text/css 870.011ms
+2025-08-13 12:06:48.304 +05:30 [INF] Sending file. Request path: '/js/bootstrap.min.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\bootstrap.min.js'
+2025-08-13 12:06:48.307 +05:30 [INF] Sending file. Request path: '/js/jquery.slimscroll.min.js'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\jquery.slimscroll.min.js'
+2025-08-13 12:06:48.312 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 82.7732ms
+2025-08-13 12:06:48.313 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-13 12:06:48.325 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/bootstrap.min.js - 200 60775 text/javascript 875.675ms
+2025-08-13 12:06:48.328 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/jquery.slimscroll.min.js - 200 6099 text/javascript 877.8242ms
+2025-08-13 12:06:48.336 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-13 12:06:48.337 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/ - 200 null text/html; charset=utf-8 1612.8128ms
+2025-08-13 12:06:48.348 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-13 12:06:48.358 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-13 12:06:48.360 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:06:48.362 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 25.8441ms
+2025-08-13 12:06:48.368 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-13 12:06:48.371 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-13 12:06:48.443 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 74.5044ms
+2025-08-13 12:06:48.568 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0 - null null
+2025-08-13 12:06:48.580 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/fonts/fontawesome-webfont.woff2'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\fonts\fontawesome-webfont.woff2'
+2025-08-13 12:06:48.584 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0 - 200 66624 font/woff2 17.8244ms
+2025-08-13 12:06:48.610 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-13 12:06:48.617 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-13 12:06:48.622 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-13 12:06:48.624 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:06:48.626 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 16.3897ms
+2025-08-13 12:06:48.635 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-13 12:07:46.630 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css - null null
+2025-08-13 12:07:46.655 +05:30 [INF] The file /css/site.css was not modified
+2025-08-13 12:07:46.658 +05:30 [DBG] Handled. Status code: 304 File: /css/site.css
+2025-08-13 12:07:46.662 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css - 304 null text/css 31.6035ms
+2025-08-13 12:07:46.665 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-08-13 12:07:46.679 +05:30 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-08-13 12:07:46.683 +05:30 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-08-13 12:07:46.686 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:07:46.689 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 24.3098ms
+2025-08-13 12:07:46.698 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-08-13 12:07:46.827 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - null null
+2025-08-13 12:07:46.872 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - null null
+2025-08-13 12:07:46.892 +05:30 [INF] Sending file. Request path: '/js/bootstrap.min.js.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\bootstrap.min.js.map'
+2025-08-13 12:07:46.904 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - 200 220691 text/plain 77.4709ms
+2025-08-13 12:07:46.939 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css.map'
+2025-08-13 12:07:46.942 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - 200 589698 text/plain 75.5157ms
+2025-08-13 12:10:53.937 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/ - null null
+2025-08-13 12:10:54.013 +05:30 [DBG] The request path / does not match a supported file type
+2025-08-13 12:10:54.015 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2025-08-13 12:10:54.023 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-08-13 12:10:54.030 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:10:54.033 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:10:54.042 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.HomeController (Invoicebook).
+2025-08-13 12:10:54.046 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-13 12:10:54.049 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:10:54.053 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-13 12:10:54.057 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-13 12:10:54.060 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:10:54.065 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:10:54.068 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:10:54.075 +05:30 [DBG] View lookup cache hit for view 'Index' in controller 'Home'.
+2025-08-13 12:10:54.078 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-13 12:10:54.080 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 8.4806ms.
+2025-08-13 12:10:54.088 +05:30 [DBG] View lookup cache hit for view '_Layout' in controller 'Home'.
+2025-08-13 12:10:54.094 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-13 12:10:54.096 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-13 12:10:54.146 +05:30 [INF] Executed ViewResult - view Index executed in 75.2702ms.
+2025-08-13 12:10:54.149 +05:30 [INF] Executed action Invoicebook.Controllers.HomeController.Index (Invoicebook) in 86.3554ms
+2025-08-13 12:10:54.152 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:10:54.153 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-13 12:10:54.155 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-13 12:10:54.158 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/ - 200 null text/html; charset=utf-8 222.273ms
+2025-08-13 12:10:54.161 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-08-13 12:10:54.166 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css - null null
+2025-08-13 12:10:54.171 +05:30 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-08-13 12:10:54.175 +05:30 [INF] The file /css/site.css was not modified
+2025-08-13 12:10:54.180 +05:30 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-08-13 12:10:54.183 +05:30 [DBG] Handled. Status code: 304 File: /css/site.css
+2025-08-13 12:10:54.186 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:10:54.190 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css - 304 null text/css 24.8915ms
+2025-08-13 12:10:54.192 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 31.1421ms
+2025-08-13 12:10:54.204 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-13 12:10:54.205 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-13 12:10:54.205 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-13 12:10:54.216 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-13 12:10:54.207 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-08-13 12:10:54.273 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 67.8696ms
+2025-08-13 12:10:54.211 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-13 12:10:54.295 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-13 12:10:54.296 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:10:54.303 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 99.326ms
+2025-08-13 12:10:54.303 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 98.4081ms
+2025-08-13 12:10:54.307 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-13 12:10:54.322 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - null null
+2025-08-13 12:10:54.327 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - null null
+2025-08-13 12:10:54.367 +05:30 [INF] Sending file. Request path: '/js/bootstrap.min.js.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\bootstrap.min.js.map'
+2025-08-13 12:10:54.370 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - 200 220691 text/plain 43.7783ms
+2025-08-13 12:10:54.376 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css.map'
+2025-08-13 12:10:54.379 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - 200 589698 text/plain 57.2098ms
+2025-08-13 12:10:54.621 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/favicon.ico - null null
+2025-08-13 12:10:54.633 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\favicon.ico'
+2025-08-13 12:10:54.635 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/favicon.ico - 200 5430 image/x-icon 13.7962ms
+2025-08-13 12:15:24.257 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:15:24.276 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 77.6608ms
+2025-08-13 12:15:24.330 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755067524325 - null null
+2025-08-13 12:15:24.332 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755067524328 - null null
+2025-08-13 12:15:24.331 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755067524327 - null null
+2025-08-13 12:15:24.371 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:15:24.407 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:15:24.422 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755067524328 - 200 1712 text/css 89.1064ms
+2025-08-13 12:15:24.440 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755067524329 - null null
+2025-08-13 12:15:24.438 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755067524329 - null null
+2025-08-13 12:15:24.453 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:15:24.437 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755067524325 - 200 34380 text/css 106.8071ms
+2025-08-13 12:15:24.462 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755067524329 - 200 3060 text/css 21.7781ms
+2025-08-13 12:15:24.446 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:15:24.469 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:15:24.475 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755067524327 - 200 232186 text/css 144.7098ms
+2025-08-13 12:15:24.477 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755067524329 - 200 148498 text/css 39.5832ms
+2025-08-13 12:15:26.130 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:15:26.136 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 7.0045ms
+2025-08-13 12:15:26.171 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755067526167 - null null
+2025-08-13 12:15:26.172 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755067526168 - null null
+2025-08-13 12:15:26.173 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755067526168 - null null
+2025-08-13 12:15:26.182 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:15:26.195 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:15:26.197 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:15:26.197 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755067526167 - 200 34380 text/css 27.0941ms
+2025-08-13 12:15:26.200 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755067526168 - 200 1712 text/css 29.131ms
+2025-08-13 12:15:26.200 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755067526169 - null null
+2025-08-13 12:15:26.202 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755067526168 - 200 232186 text/css 29.871ms
+2025-08-13 12:15:26.204 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755067526169 - null null
+2025-08-13 12:15:26.224 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:15:26.231 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:15:26.233 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755067526169 - 200 148498 text/css 32.7924ms
+2025-08-13 12:15:26.235 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755067526169 - 200 3060 text/css 31.8001ms
+2025-08-13 12:16:05.575 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - null null
+2025-08-13 12:16:05.637 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css.map'
+2025-08-13 12:16:05.639 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - 200 589698 text/plain 63.9175ms
+2025-08-13 12:17:13.961 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/ - null null
+2025-08-13 12:17:14.034 +05:30 [DBG] The request path / does not match a supported file type
+2025-08-13 12:17:14.037 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2025-08-13 12:17:14.039 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-08-13 12:17:14.042 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:17:14.045 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:17:14.053 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.HomeController (Invoicebook).
+2025-08-13 12:17:14.057 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-13 12:17:14.059 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:17:14.063 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-13 12:17:14.066 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-13 12:17:14.068 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:17:14.072 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:17:14.076 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:17:14.081 +05:30 [DBG] View lookup cache hit for view 'Index' in controller 'Home'.
+2025-08-13 12:17:14.084 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-13 12:17:14.086 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 6.173ms.
+2025-08-13 12:17:14.092 +05:30 [DBG] View lookup cache hit for view '_Layout' in controller 'Home'.
+2025-08-13 12:17:14.095 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-13 12:17:14.097 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-13 12:17:14.146 +05:30 [INF] Executed ViewResult - view Index executed in 67.2434ms.
+2025-08-13 12:17:14.152 +05:30 [INF] Executed action Invoicebook.Controllers.HomeController.Index (Invoicebook) in 81.4888ms
+2025-08-13 12:17:14.158 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css - null null
+2025-08-13 12:17:14.165 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css - null null
+2025-08-13 12:17:14.167 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?v=1.0.4 - null null
+2025-08-13 12:17:14.220 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-08-13 12:17:14.218 +05:30 [INF] The file /css/site.css was not modified
+2025-08-13 12:17:14.261 +05:30 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-08-13 12:17:14.166 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:17:14.259 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:17:14.220 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-13 12:17:14.274 +05:30 [DBG] Handled. Status code: 304 File: /css/site.css
+2025-08-13 12:17:14.275 +05:30 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-08-13 12:17:14.276 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-13 12:17:14.277 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css - 200 232186 text/css 119.8197ms
+2025-08-13 12:17:14.274 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:17:14.283 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-13 12:17:14.286 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css - 304 null text/css 120.6524ms
+2025-08-13 12:17:14.288 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:17:14.289 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-13 12:17:14.297 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 77.1657ms
+2025-08-13 12:17:14.303 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 83.7647ms
+2025-08-13 12:17:14.305 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/ - 200 null text/html; charset=utf-8 345.0715ms
+2025-08-13 12:17:14.300 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-13 12:17:14.295 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?v=1.0.4 - 200 148498 text/css 128.6335ms
+2025-08-13 12:17:14.308 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-13 12:17:14.314 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-08-13 12:17:14.345 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - null null
+2025-08-13 12:17:14.325 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-13 12:17:14.357 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-13 12:17:14.361 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:17:14.365 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 64.2603ms
+2025-08-13 12:17:14.439 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css.map'
+2025-08-13 12:17:14.414 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - null null
+2025-08-13 12:17:14.444 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - 200 589698 text/plain 99.1234ms
+2025-08-13 12:17:14.441 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-13 12:17:14.458 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 148.8887ms
+2025-08-13 12:17:14.470 +05:30 [INF] Sending file. Request path: '/js/bootstrap.min.js.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\bootstrap.min.js.map'
+2025-08-13 12:17:14.478 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - 200 220691 text/plain 63.981ms
+2025-08-13 12:17:14.583 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/favicon.ico - null null
+2025-08-13 12:17:14.598 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\favicon.ico'
+2025-08-13 12:17:14.606 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/favicon.ico - 200 5430 image/x-icon 23.0229ms
+2025-08-13 12:19:25.210 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/ - null null
+2025-08-13 12:19:25.229 +05:30 [DBG] The request path / does not match a supported file type
+2025-08-13 12:19:25.231 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2025-08-13 12:19:25.234 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-08-13 12:19:25.235 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:19:25.235 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:19:25.237 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.HomeController (Invoicebook).
+2025-08-13 12:19:25.239 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-13 12:19:25.241 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:19:25.242 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-13 12:19:25.243 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-13 12:19:25.245 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:19:25.246 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:19:25.247 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:19:25.248 +05:30 [DBG] View lookup cache hit for view 'Index' in controller 'Home'.
+2025-08-13 12:19:25.249 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-13 12:19:25.250 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 2.2098ms.
+2025-08-13 12:19:25.251 +05:30 [DBG] View lookup cache hit for view '_Layout' in controller 'Home'.
+2025-08-13 12:19:25.253 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-13 12:19:25.253 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-13 12:19:25.285 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css - null null
+2025-08-13 12:19:25.285 +05:30 [INF] Executed ViewResult - view Index executed in 36.9158ms.
+2025-08-13 12:19:25.288 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-08-13 12:19:25.288 +05:30 [INF] The file /css/site.css was not modified
+2025-08-13 12:19:25.296 +05:30 [DBG] Handled. Status code: 304 File: /css/site.css
+2025-08-13 12:19:25.294 +05:30 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-08-13 12:19:25.298 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css - 304 null text/css 13.4131ms
+2025-08-13 12:19:25.290 +05:30 [INF] Executed action Invoicebook.Controllers.HomeController.Index (Invoicebook) in 44.1899ms
+2025-08-13 12:19:25.303 +05:30 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-08-13 12:19:25.309 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:19:25.310 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:19:25.311 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-13 12:19:25.312 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 23.7288ms
+2025-08-13 12:19:25.312 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-13 12:19:25.315 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-08-13 12:19:25.316 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/ - 200 null text/html; charset=utf-8 111.8077ms
+2025-08-13 12:19:25.371 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - null null
+2025-08-13 12:19:25.374 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-13 12:19:25.374 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-13 12:19:25.375 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-13 12:19:25.393 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-13 12:19:25.388 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-13 12:19:25.399 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-13 12:19:25.402 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 27.7987ms
+2025-08-13 12:19:25.406 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:19:25.416 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 41.8408ms
+2025-08-13 12:19:25.418 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.9103ms
+2025-08-13 12:19:25.419 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css.map'
+2025-08-13 12:19:25.420 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-13 12:19:25.423 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - 200 589698 text/plain 51.9269ms
+2025-08-13 12:19:25.454 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - null null
+2025-08-13 12:19:25.464 +05:30 [INF] Sending file. Request path: '/js/bootstrap.min.js.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\bootstrap.min.js.map'
+2025-08-13 12:19:25.466 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - 200 220691 text/plain 11.6293ms
+2025-08-13 12:19:25.468 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-13 12:19:25.472 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-13 12:19:25.473 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-13 12:19:25.474 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:19:25.475 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 6.6736ms
+2025-08-13 12:19:25.477 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-13 12:19:25.604 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/favicon.ico - null null
+2025-08-13 12:19:25.612 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\favicon.ico'
+2025-08-13 12:19:25.616 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/favicon.ico - 200 5430 image/x-icon 12.2831ms
+2025-08-13 12:22:26.267 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:22:26.280 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 13.0635ms
+2025-08-13 12:22:26.312 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755067946309 - null null
+2025-08-13 12:22:26.313 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755067946310 - null null
+2025-08-13 12:22:26.313 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755067946310 - null null
+2025-08-13 12:22:26.331 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:22:26.344 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:22:26.346 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755067946309 - 200 34380 text/css 34.029ms
+2025-08-13 12:22:26.350 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755067946311 - null null
+2025-08-13 12:22:26.362 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755067946311 - null null
+2025-08-13 12:22:26.362 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:22:26.349 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755067946310 - 200 1712 text/css 36.62ms
+2025-08-13 12:22:26.383 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755067946310 - 200 232186 text/css 70.921ms
+2025-08-13 12:22:26.382 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:22:26.384 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:22:26.398 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755067946311 - 200 3060 text/css 38.2892ms
+2025-08-13 12:22:26.400 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755067946311 - 200 148498 text/css 49.419ms
+2025-08-13 12:22:30.366 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:22:30.371 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 4.8852ms
+2025-08-13 12:22:30.398 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755067950395 - null null
+2025-08-13 12:22:30.399 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755067950396 - null null
+2025-08-13 12:22:30.399 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755067950396 - null null
+2025-08-13 12:22:30.407 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:22:30.415 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:22:30.415 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:22:30.417 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755067950396 - 200 1712 text/css 18.2485ms
+2025-08-13 12:22:30.416 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755067950395 - 200 34380 text/css 17.6987ms
+2025-08-13 12:22:30.419 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755067950396 - 200 232186 text/css 20.3349ms
+2025-08-13 12:22:30.419 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755067950396 - null null
+2025-08-13 12:22:30.421 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755067950396 - null null
+2025-08-13 12:22:30.436 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:22:30.437 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:22:30.438 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755067950396 - 200 148498 text/css 19.0681ms
+2025-08-13 12:22:30.439 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755067950396 - 200 3060 text/css 18.9848ms
+2025-08-13 12:24:21.228 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - null null
+2025-08-13 12:24:21.277 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css.map'
+2025-08-13 12:24:21.279 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - 200 589698 text/plain 51.1513ms
+2025-08-13 12:24:23.706 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/ - null null
+2025-08-13 12:24:23.719 +05:30 [DBG] The request path / does not match a supported file type
+2025-08-13 12:24:23.719 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2025-08-13 12:24:23.721 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-08-13 12:24:23.723 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:24:23.724 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:24:23.725 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.HomeController (Invoicebook).
+2025-08-13 12:24:23.728 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-13 12:24:23.730 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:24:23.731 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-13 12:24:23.734 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-13 12:24:23.735 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-13 12:24:23.737 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:24:23.738 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-13 12:24:23.739 +05:30 [DBG] View lookup cache hit for view 'Index' in controller 'Home'.
+2025-08-13 12:24:23.742 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-13 12:24:23.743 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 3.2582ms.
+2025-08-13 12:24:23.744 +05:30 [DBG] View lookup cache hit for view '_Layout' in controller 'Home'.
+2025-08-13 12:24:23.747 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-13 12:24:23.748 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-13 12:24:23.769 +05:30 [INF] Executed ViewResult - view Index executed in 29.5385ms.
+2025-08-13 12:24:23.771 +05:30 [INF] Executed action Invoicebook.Controllers.HomeController.Index (Invoicebook) in 34.8353ms
+2025-08-13 12:24:23.773 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-13 12:24:23.775 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-13 12:24:23.777 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css - null null
+2025-08-13 12:24:23.778 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-08-13 12:24:23.778 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-13 12:24:23.781 +05:30 [INF] The file /css/site.css was not modified
+2025-08-13 12:24:23.784 +05:30 [DBG] The request path /.well-known/appspecific/com.chrome.devtools.json does not match an existing file
+2025-08-13 12:24:23.784 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/ - 200 null text/html; charset=utf-8 78.4131ms
+2025-08-13 12:24:23.786 +05:30 [DBG] Handled. Status code: 304 File: /css/site.css
+2025-08-13 12:24:23.787 +05:30 [DBG] No candidates found for the request path '/.well-known/appspecific/com.chrome.devtools.json'
+2025-08-13 12:24:23.793 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css - 304 null text/css 15.5858ms
+2025-08-13 12:24:23.793 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:24:23.797 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 19.5171ms
+2025-08-13 12:24:23.801 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-08-13 12:24:23.813 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-13 12:24:23.813 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-13 12:24:23.818 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-13 12:24:23.820 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-13 12:24:23.821 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 7.9399ms
+2025-08-13 12:24:23.823 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-13 12:24:23.827 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:24:23.827 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 14.1395ms
+2025-08-13 12:24:23.831 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-13 12:24:23.851 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - null null
+2025-08-13 12:24:23.865 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-13 12:24:23.866 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css.map'
+2025-08-13 12:24:23.869 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - 200 589698 text/plain 18.286ms
+2025-08-13 12:24:23.878 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.049ms
+2025-08-13 12:24:23.880 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-13 12:24:23.883 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-13 12:24:23.885 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-13 12:24:23.887 +05:30 [DBG] Request did not match any endpoints
+2025-08-13 12:24:23.887 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - null null
+2025-08-13 12:24:23.888 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 7.8034ms
+2025-08-13 12:24:23.896 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-13 12:24:23.898 +05:30 [INF] Sending file. Request path: '/js/bootstrap.min.js.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\js\bootstrap.min.js.map'
+2025-08-13 12:24:23.900 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/js/bootstrap.min.js.map - 200 220691 text/plain 12.4868ms
+2025-08-13 12:24:24.011 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/favicon.ico - null null
+2025-08-13 12:24:24.065 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\favicon.ico'
+2025-08-13 12:24:24.067 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/favicon.ico - 200 5430 image/x-icon 68.2044ms
+2025-08-13 12:26:09.941 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:26:09.952 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 11.4483ms
+2025-08-13 12:26:09.983 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068169978 - null null
+2025-08-13 12:26:09.984 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068169979 - null null
+2025-08-13 12:26:09.984 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068169979 - null null
+2025-08-13 12:26:10.006 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:26:10.022 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:26:10.023 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068169978 - 200 34380 text/css 40.0811ms
+2025-08-13 12:26:10.033 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068169979 - 200 1712 text/css 48.4015ms
+2025-08-13 12:26:10.028 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068169979 - null null
+2025-08-13 12:26:10.036 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068169979 - null null
+2025-08-13 12:26:10.037 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:26:10.051 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:26:10.052 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068169979 - 200 232186 text/css 68.3378ms
+2025-08-13 12:26:10.053 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:26:10.054 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068169979 - 200 3060 text/css 17.7766ms
+2025-08-13 12:26:10.058 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068169979 - 200 148498 text/css 29.6535ms
+2025-08-13 12:26:12.348 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:26:12.356 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 8.3863ms
+2025-08-13 12:26:12.380 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068172377 - null null
+2025-08-13 12:26:12.380 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068172377 - null null
+2025-08-13 12:26:12.380 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068172378 - null null
+2025-08-13 12:26:12.392 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:26:12.392 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:26:12.402 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:26:12.405 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068172378 - null null
+2025-08-13 12:26:12.403 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068172377 - 200 34380 text/css 23.0014ms
+2025-08-13 12:26:12.406 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068172378 - null null
+2025-08-13 12:26:12.404 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068172377 - 200 232186 text/css 24.2041ms
+2025-08-13 12:26:12.419 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:26:12.405 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068172378 - 200 1712 text/css 24.9169ms
+2025-08-13 12:26:12.421 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:26:12.425 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068172378 - 200 148498 text/css 20.1343ms
+2025-08-13 12:26:12.429 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068172378 - 200 3060 text/css 22.4794ms
+2025-08-13 12:26:15.766 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:26:15.771 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 4.7216ms
+2025-08-13 12:26:15.799 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068175796 - null null
+2025-08-13 12:26:15.800 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068175797 - null null
+2025-08-13 12:26:15.800 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068175797 - null null
+2025-08-13 12:26:15.807 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:26:15.810 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:26:15.816 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068175796 - 200 34380 text/css 16.978ms
+2025-08-13 12:26:15.822 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068175797 - null null
+2025-08-13 12:26:15.819 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068175797 - 200 1712 text/css 18.6294ms
+2025-08-13 12:26:15.827 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:26:15.820 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068175797 - null null
+2025-08-13 12:26:15.821 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:26:15.833 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068175797 - 200 3060 text/css 10.919ms
+2025-08-13 12:26:15.837 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068175797 - 200 232186 text/css 37.3289ms
+2025-08-13 12:26:15.839 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:26:15.845 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068175797 - 200 148498 text/css 25.5373ms
+2025-08-13 12:26:17.904 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:26:17.909 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 5.301ms
+2025-08-13 12:26:17.933 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068177929 - null null
+2025-08-13 12:26:17.933 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068177929 - null null
+2025-08-13 12:26:17.934 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068177930 - null null
+2025-08-13 12:26:17.939 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:26:17.947 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:26:17.946 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:26:17.948 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068177929 - 200 34380 text/css 15.2044ms
+2025-08-13 12:26:17.949 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068177930 - 200 1712 text/css 16.0555ms
+2025-08-13 12:26:17.951 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068177929 - 200 232186 text/css 17.4399ms
+2025-08-13 12:26:17.951 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068177930 - null null
+2025-08-13 12:26:17.953 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068177930 - null null
+2025-08-13 12:26:17.964 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:26:17.966 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:26:17.966 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068177930 - 200 148498 text/css 15.4092ms
+2025-08-13 12:26:17.968 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068177930 - 200 3060 text/css 15.3954ms
+2025-08-13 12:26:21.412 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:26:21.417 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 4.8928ms
+2025-08-13 12:26:21.449 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068181446 - null null
+2025-08-13 12:26:21.450 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068181446 - null null
+2025-08-13 12:26:21.450 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068181446 - null null
+2025-08-13 12:26:21.456 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:26:21.467 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:26:21.468 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:26:21.469 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068181446 - 200 34380 text/css 19.5982ms
+2025-08-13 12:26:21.470 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068181446 - 200 1712 text/css 20.3876ms
+2025-08-13 12:26:21.471 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068181447 - null null
+2025-08-13 12:26:21.472 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068181446 - 200 232186 text/css 22.7629ms
+2025-08-13 12:26:21.473 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068181447 - null null
+2025-08-13 12:26:21.490 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:26:21.494 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:26:21.497 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068181447 - 200 3060 text/css 23.7724ms
+2025-08-13 12:26:21.495 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068181447 - 200 148498 text/css 23.8582ms
+2025-08-13 12:26:23.248 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - null null
+2025-08-13 12:26:23.255 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/clear-browser-cache - 200 0 null 6.779ms
+2025-08-13 12:26:23.277 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068183275 - null null
+2025-08-13 12:26:23.277 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068183275 - null null
+2025-08-13 12:26:23.278 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068183276 - null null
+2025-08-13 12:26:23.285 +05:30 [INF] Sending file. Request path: '/Admin/plugins/font-awesome/css/font-awesome.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\plugins\font-awesome\css\font-awesome.min.css'
+2025-08-13 12:26:23.292 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\site.css'
+2025-08-13 12:26:23.291 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css'
+2025-08-13 12:26:23.294 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/site.css?nonce=1755068183276 - 200 1712 text/css 15.8092ms
+2025-08-13 12:26:23.296 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068183277 - null null
+2025-08-13 12:26:23.295 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068183276 - null null
+2025-08-13 12:26:23.302 +05:30 [INF] Sending file. Request path: '/admin/dist/css/skins/skin-green.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\skins\skin-green.min.css'
+2025-08-13 12:26:23.295 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css?nonce=1755068183275 - 200 232186 text/css 17.7287ms
+2025-08-13 12:26:23.306 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/admin/dist/css/skins/skin-green.min.css?nonce=1755068183277 - 200 3060 text/css 10.4014ms
+2025-08-13 12:26:23.293 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/plugins/font-awesome/css/font-awesome.min.css?nonce=1755068183275 - 200 34380 text/css 15.3874ms
+2025-08-13 12:26:23.308 +05:30 [INF] Sending file. Request path: '/Admin/dist/css/admin-lte.min.css'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\Admin\dist\css\admin-lte.min.css'
+2025-08-13 12:26:23.315 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Admin/dist/css/admin-lte.min.css?nonce=1755068183276 - 200 148498 text/css 20.6057ms
+2025-08-13 12:26:27.761 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - null null
+2025-08-13 12:26:27.792 +05:30 [INF] Sending file. Request path: '/css/bootstrap.min.css.map'. Physical path: 'C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook\wwwroot\css\bootstrap.min.css.map'
+2025-08-13 12:26:27.793 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/css/bootstrap.min.css.map - 200 589698 text/plain 32.5043ms

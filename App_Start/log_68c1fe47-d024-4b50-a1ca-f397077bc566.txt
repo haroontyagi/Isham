@@ -1,0 +1,256 @@
+2025-08-11 12:39:36.671 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Chart/Index.cshtml'.
+2025-08-11 12:39:36.738 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Client/Index.cshtml'.
+2025-08-11 12:39:36.746 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Compose/Index.cshtml'.
+2025-08-11 12:39:36.749 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Dashboard/Index.cshtml'.
+2025-08-11 12:39:36.756 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2025-08-11 12:39:36.760 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2025-08-11 12:39:36.763 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Inbox/Index.cshtml'.
+2025-08-11 12:39:36.765 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Invoice/Index.cshtml'.
+2025-08-11 12:39:36.775 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Read/Index.cshtml'.
+2025-08-11 12:39:36.778 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2025-08-11 12:39:36.781 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2025-08-11 12:39:36.784 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Table/Index.cshtml'.
+2025-08-11 12:39:36.788 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2025-08-11 12:39:36.790 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2025-08-11 12:39:36.792 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2025-08-11 12:39:36.823 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-11 12:39:37.011 +05:30 [DBG] Hosting starting
+2025-08-11 12:39:37.123 +05:30 [INF] User profile is available. Using 'C:\Users\Mohamed Faisal\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-11 12:39:37.169 +05:30 [DBG] Reading data from file 'C:\Users\Mohamed Faisal\AppData\Local\ASP.NET\DataProtection-Keys\key-f82e546a-d142-4f7e-a8e4-04a3ec45a2cf.xml'.
+2025-08-11 12:39:37.221 +05:30 [DBG] Found key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf}.
+2025-08-11 12:39:37.258 +05:30 [DBG] Considering key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} with expiration date 2025-11-03 06:00:59Z as default key.
+2025-08-11 12:39:37.271 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-08-11 12:39:37.283 +05:30 [DBG] Decrypting secret element using Windows DPAPI.
+2025-08-11 12:39:37.294 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-08-11 12:39:37.313 +05:30 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2025-08-11 12:39:37.321 +05:30 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2025-08-11 12:39:37.327 +05:30 [DBG] Using key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} as the default key.
+2025-08-11 12:39:37.331 +05:30 [DBG] Key ring with default key {f82e546a-d142-4f7e-a8e4-04a3ec45a2cf} was loaded during application startup.
+2025-08-11 12:39:37.353 +05:30 [DBG] Middleware loaded
+2025-08-11 12:39:37.359 +05:30 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16507 B).
+2025-08-11 12:39:37.376 +05:30 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-11 12:39:37.558 +05:30 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-11 12:39:37.921 +05:30 [INF] Now listening on: https://localhost:7260
+2025-08-11 12:39:37.933 +05:30 [INF] Now listening on: http://localhost:5058
+2025-08-11 12:39:37.939 +05:30 [DBG] Loaded hosting startup assembly Invoicebook
+2025-08-11 12:39:37.944 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-11 12:39:37.946 +05:30 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-11 12:39:37.949 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-11 12:39:37.980 +05:30 [DBG] Connection id "0HNEOKO4CAGE4" accepted.
+2025-08-11 12:39:37.997 +05:30 [DBG] Connection id "0HNEOKO4CAGE4" received FIN.
+2025-08-11 12:39:37.997 +05:30 [DBG] Connection id "0HNEOKO4CAGE5" received FIN.
+2025-08-11 12:39:38.045 +05:30 [DBG] Connection id "0HNEOKO4CAGE4" started.
+2025-08-11 12:39:38.071 +05:30 [DBG] Connection id "0HNEOKO4CAGE5" accepted.
+2025-08-11 12:39:38.094 +05:30 [DBG] Connection id "0HNEOKO4CAGE5" started.
+2025-08-11 12:39:38.110 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-11 12:39:38.121 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-08-11 12:39:38.146 +05:30 [INF] Hosting environment: Development
+2025-08-11 12:39:38.129 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-08-11 12:39:38.386 +05:30 [DBG] Connection id "0HNEOKO4CAGE4" stopped.
+2025-08-11 12:39:38.390 +05:30 [INF] Content root path: C:\Users\Mohamed Faisal\Documents\varsai UAE\Invoicebook\Invoicebook
+2025-08-11 12:39:38.426 +05:30 [DBG] Connection id "0HNEOKO4CAGE5" stopped.
+2025-08-11 12:39:38.960 +05:30 [DBG] Hosting started
+2025-08-11 12:39:38.966 +05:30 [DBG] Connection id "0HNEOKO4CAGE4" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-11 12:39:38.966 +05:30 [DBG] Connection id "0HNEOKO4CAGE5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-11 12:39:39.799 +05:30 [DBG] Connection id "0HNEOKO4CAGE6" accepted.
+2025-08-11 12:39:40.098 +05:30 [DBG] Connection id "0HNEOKO4CAGE6" started.
+2025-08-11 12:39:40.487 +05:30 [DBG] Connection 0HNEOKO4CAGE6 established using the following protocol: "Tls13"
+2025-08-11 12:39:40.758 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/ - null null
+2025-08-11 12:39:41.109 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-11 12:39:41.171 +05:30 [DBG] The request path / does not match a supported file type
+2025-08-11 12:39:41.204 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2025-08-11 12:39:41.214 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-08-11 12:39:41.228 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-11 12:39:41.240 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-11 12:39:41.348 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.HomeController (Invoicebook).
+2025-08-11 12:39:41.358 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-11 12:39:41.361 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-11 12:39:41.363 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-11 12:39:41.366 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-11 12:39:41.374 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-11 12:39:41.385 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-11 12:39:41.391 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.HomeController (Invoicebook)
+2025-08-11 12:39:41.408 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2025-08-11 12:39:41.428 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-11 12:39:41.435 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 29.5762ms.
+2025-08-11 12:39:41.523 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2025-08-11 12:39:41.566 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-11 12:39:41.580 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-11 12:39:41.673 +05:30 [INF] Executed ViewResult - view Index executed in 273.5561ms.
+2025-08-11 12:39:41.681 +05:30 [INF] Executed action Invoicebook.Controllers.HomeController.Index (Invoicebook) in 303.7185ms
+2025-08-11 12:39:41.690 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.HomeController.Index (Invoicebook)'
+2025-08-11 12:39:41.705 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-11 12:39:41.715 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-11 12:39:41.739 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/ - 200 null text/html; charset=utf-8 991.0151ms
+2025-08-11 12:39:41.832 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-11 12:39:41.875 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-11 12:39:41.881 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 49.269ms
+2025-08-11 12:39:41.978 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-11 12:39:41.982 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-11 12:39:41.995 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-11 12:39:42.011 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-11 12:39:42.013 +05:30 [DBG] Request did not match any endpoints
+2025-08-11 12:39:42.016 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 37.7666ms
+2025-08-11 12:39:42.032 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-11 12:39:42.179 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-11 12:39:42.215 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 233.0352ms
+2025-08-11 12:39:42.228 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-11 12:39:42.247 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-11 12:39:42.274 +05:30 [DBG] Request did not match any endpoints
+2025-08-11 12:39:42.278 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 98.9466ms
+2025-08-11 12:39:42.311 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-11 12:39:44.220 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Dashboard - null null
+2025-08-11 12:39:44.232 +05:30 [DBG] The request path /Dashboard does not match a supported file type
+2025-08-11 12:39:44.236 +05:30 [DBG] 1 candidate(s) found for the request path '/Dashboard'
+2025-08-11 12:39:44.244 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.DashboardController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Dashboard'
+2025-08-11 12:39:44.246 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.DashboardController.Index (Invoicebook)'
+2025-08-11 12:39:44.250 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.DashboardController.Index (Invoicebook)'
+2025-08-11 12:39:44.263 +05:30 [INF] Route matched with {action = "Index", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.DashboardController (Invoicebook).
+2025-08-11 12:39:44.266 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-11 12:39:44.269 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-11 12:39:44.271 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-11 12:39:44.274 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-11 12:39:44.276 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-11 12:39:44.278 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.DashboardController (Invoicebook)
+2025-08-11 12:39:44.280 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.DashboardController (Invoicebook)
+2025-08-11 12:39:44.282 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Dashboard'.
+2025-08-11 12:39:44.288 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-11 12:39:44.290 +05:30 [DBG] The view path '/Views/Dashboard/Index.cshtml' was found in 7.2856ms.
+2025-08-11 12:39:44.299 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Dashboard'.
+2025-08-11 12:39:44.309 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-11 12:39:44.311 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-11 12:39:44.345 +05:30 [INF] Executed ViewResult - view Index executed in 62.4281ms.
+2025-08-11 12:39:44.348 +05:30 [INF] Executed action Invoicebook.Controllers.DashboardController.Index (Invoicebook) in 70.6193ms
+2025-08-11 12:39:44.352 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.DashboardController.Index (Invoicebook)'
+2025-08-11 12:39:44.354 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-11 12:39:44.355 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-11 12:39:44.357 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/Dashboard - 200 null text/html; charset=utf-8 137.6047ms
+2025-08-11 12:39:44.394 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - null null
+2025-08-11 12:39:44.394 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-11 12:39:44.397 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_vs/browserLink - null null
+2025-08-11 12:39:44.414 +05:30 [DBG] The request path /AdminLTE/dist/img/default-50x50.gif does not match an existing file
+2025-08-11 12:39:44.422 +05:30 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-11 12:39:44.443 +05:30 [DBG] No candidates found for the request path '/AdminLTE/dist/img/default-50x50.gif'
+2025-08-11 12:39:44.446 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 52.1495ms
+2025-08-11 12:39:44.461 +05:30 [DBG] Request did not match any endpoints
+2025-08-11 12:39:44.476 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/_vs/browserLink - 200 null text/javascript; charset=UTF-8 79.2006ms
+2025-08-11 12:39:44.482 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif - 404 0 null 87.7735ms
+2025-08-11 12:39:44.506 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7260/AdminLTE/dist/img/default-50x50.gif, Response status code: 404
+2025-08-11 12:39:45.429 +05:30 [DBG] Connection id "0HNEOKO4CAGE6" received FIN.
+2025-08-11 12:39:45.444 +05:30 [DBG] The connection queue processing loop for 0HNEOKO4CAGE6 completed.
+2025-08-11 12:39:45.450 +05:30 [DBG] Connection id "0HNEOKO4CAGE6" is closed. The last processed stream ID was 17.
+2025-08-11 12:39:45.459 +05:30 [DBG] Connection id "0HNEOKO4CAGE6" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-11 12:39:45.467 +05:30 [DBG] Connection id "0HNEOKO4CAGE6" stopped.
+2025-08-11 12:39:46.327 +05:30 [DBG] Connection id "0HNEOKO4CAGE7" accepted.
+2025-08-11 12:39:46.330 +05:30 [DBG] Connection id "0HNEOKO4CAGE7" started.
+2025-08-11 12:39:46.339 +05:30 [DBG] Connection 0HNEOKO4CAGE7 established using the following protocol: "Tls13"
+2025-08-11 12:39:47.583 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Client - null null
+2025-08-11 12:39:47.623 +05:30 [DBG] The request path /Client does not match a supported file type
+2025-08-11 12:39:47.627 +05:30 [DBG] 1 candidate(s) found for the request path '/Client'
+2025-08-11 12:39:47.629 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Client'
+2025-08-11 12:39:47.632 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)'
+2025-08-11 12:39:47.633 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.ClientController.Index (Invoicebook)'
+2025-08-11 12:39:47.642 +05:30 [INF] Route matched with {action = "Index", controller = "Client"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.ClientController (Invoicebook).
+2025-08-11 12:39:47.645 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-11 12:39:47.648 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-11 12:39:47.657 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-11 12:39:47.660 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-11 12:39:47.662 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-11 12:39:47.664 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.ClientController (Invoicebook)
+2025-08-11 12:39:50.118 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2025-08-11 12:39:50.178 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.ClientController (Invoicebook)
+2025-08-11 12:39:51.633 +05:30 [DBG] Entity Framework Core 8.0.13 initialized 'ApplicationDbContext' using provider 'Pomelo.EntityFrameworkCore.MySql:8.0.3' with options: ServerVersion=8.0.43-mysql 
+2025-08-11 12:39:51.689 +05:30 [DBG] Compiling query expression: 
+'DbSet<Client>()'
+2025-08-11 12:39:52.043 +05:30 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Client>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Client.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Client.Email (string) Required, 1], [Property: Client.JoinedDate (DateTime) Required, 2], [Property: Client.Name (string) Required MaxLength(100), 3], [Property: Client.Phone (string) Required, 4] }
+        SELECT c.Id, c.Email, c.JoinedDate, c.Name, c.Phone
+        FROM Clients AS c), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Client>, 
+    Invoicebook.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2025-08-11 12:39:52.099 +05:30 [DBG] Creating DbConnection.
+2025-08-11 12:39:52.110 +05:30 [DBG] Created DbConnection. (9ms).
+2025-08-11 12:39:52.117 +05:30 [DBG] Opening connection to database 'accountbook' on server 'localhost'.
+2025-08-11 12:39:52.179 +05:30 [DBG] Opened connection to database 'accountbook' on server 'localhost'.
+2025-08-11 12:39:52.187 +05:30 [DBG] Creating DbCommand for 'ExecuteReader'.
+2025-08-11 12:39:52.194 +05:30 [DBG] Created DbCommand for 'ExecuteReader' (9ms).
+2025-08-11 12:39:52.197 +05:30 [DBG] Initialized DbCommand for 'ExecuteReader' (13ms).
+2025-08-11 12:39:52.213 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`Id`, `c`.`Email`, `c`.`JoinedDate`, `c`.`Name`, `c`.`Phone`
+FROM `Clients` AS `c`
+2025-08-11 12:39:52.981 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/Chart - null null
+2025-08-11 12:39:53.018 +05:30 [ERR] Failed executing DbCommand (800ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`Id`, `c`.`Email`, `c`.`JoinedDate`, `c`.`Name`, `c`.`Phone`
+FROM `Clients` AS `c`
+2025-08-11 12:39:53.026 +05:30 [DBG] The request path /Chart does not match a supported file type
+2025-08-11 12:39:53.031 +05:30 [DBG] 1 candidate(s) found for the request path '/Chart'
+2025-08-11 12:39:53.033 +05:30 [DBG] Closing connection to database 'accountbook' on server 'localhost'.
+2025-08-11 12:39:53.034 +05:30 [DBG] Endpoint 'Invoicebook.Controllers.ChartController.Index (Invoicebook)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Chart'
+2025-08-11 12:39:53.040 +05:30 [DBG] Request matched endpoint 'Invoicebook.Controllers.ChartController.Index (Invoicebook)'
+2025-08-11 12:39:53.043 +05:30 [INF] Executing endpoint 'Invoicebook.Controllers.ChartController.Index (Invoicebook)'
+2025-08-11 12:39:53.048 +05:30 [INF] Route matched with {action = "Index", controller = "Chart"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Invoicebook.Controllers.ChartController (Invoicebook).
+2025-08-11 12:39:53.053 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-11 12:39:53.054 +05:30 [DBG] Closed connection to database 'accountbook' on server 'localhost' (13ms).
+2025-08-11 12:39:53.057 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-11 12:39:53.063 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-08-11 12:39:53.066 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-11 12:39:53.069 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-08-11 12:39:53.073 +05:30 [DBG] Executing controller factory for controller Invoicebook.Controllers.ChartController (Invoicebook)
+2025-08-11 12:39:53.076 +05:30 [DBG] Executed controller factory for controller Invoicebook.Controllers.ChartController (Invoicebook)
+2025-08-11 12:39:53.078 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Chart'.
+2025-08-11 12:39:53.082 +05:30 [INF] Executing ViewResult, running view Index.
+2025-08-11 12:39:53.102 +05:30 [DBG] The view path '/Views/Chart/Index.cshtml' was found in 23.3167ms.
+2025-08-11 12:39:53.111 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Chart'.
+2025-08-11 12:39:53.115 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-11 12:39:53.117 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-11 12:39:53.128 +05:30 [INF] Executed ViewResult - view Index executed in 50.1675ms.
+2025-08-11 12:39:53.134 +05:30 [INF] Executed action Invoicebook.Controllers.ChartController.Index (Invoicebook) in 61.0584ms
+2025-08-11 12:39:53.146 +05:30 [INF] Executed endpoint 'Invoicebook.Controllers.ChartController.Index (Invoicebook)'
+2025-08-11 12:39:53.167 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-11 12:39:53.174 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'Invoicebook.Data.ApplicationDbContext'.
+MySqlConnector.MySqlException (0x80004005): Unknown column 'c.JoinedDate' in 'field list'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 894
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 483
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in /_/src/MySqlConnector/MySqlCommand.cs:line 290
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+MySqlConnector.MySqlException (0x80004005): Unknown column 'c.JoinedDate' in 'field list'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 894
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 483
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior) in /_/src/MySqlConnector/MySqlCommand.cs:line 290
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+2025-08-11 12:39:53.192 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7260/_framework/aspnetcore-browser-refresh.js - null null
