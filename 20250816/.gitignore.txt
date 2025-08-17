@@ -1,3 +1,0 @@
-git rm -r --cached 20250816/
-git commit -m "Ignored 20250816 folder"
-git push origin main
